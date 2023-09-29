@@ -11,3 +11,9 @@ let web = process.env.WEB || 'no tiene web'
 
 console.log("Hola " +nombre);
 console.log("Mi web es:  " +web);
+
+
+// nodemon
+
+// npm i -g nodemon
+// nodemon [archio]
