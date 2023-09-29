@@ -21,5 +21,5 @@ hola("Uriel",function(){
         console.log("terminando proceso");
         
     })
-
+    console.log("hola")
 });
